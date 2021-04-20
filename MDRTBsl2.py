@@ -5,7 +5,7 @@ Created on Mon Mar  4 12:33:54 2019
 @author: PCR Gen
 """
 
-#This applet makes it easier to determine which phenotypic resistance pattern is present in MDRTB sl assay. It especially pays attention to AG & CP resistance markers to determine the drug resistance combo.
+#This script makes it easier to determine which phenotypic resistance pattern is present in MDRTB sl assay. It especially pays attention to AG & CP resistance markers to determine the drug resistance combo.
 
 print("For all of the following questions, please answer Yes or No.")
 #For rrs AG/CP resistance determination.
